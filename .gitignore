@@ -49,7 +49,7 @@ application-dev.properties
 application-dev.yml
 application-prod.properties
 application-prod.yml
-
+application.yaml
 ### Logs ###
 logs/
 *.log
